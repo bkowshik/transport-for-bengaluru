@@ -1,2 +1,1 @@
-# transport-for-bengaluru
-Transport for Bengaluru.
+# Transport for Bengaluru
