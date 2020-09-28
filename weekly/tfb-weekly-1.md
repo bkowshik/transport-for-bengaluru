@@ -36,3 +36,8 @@ The Bengaluru Sustainability Manifesto (BSM) is primarily a vision document, but
 - https://bpac.in/bengaluru-sustainability-manifesto/
 
 ![](images/bsm-targets.png)
+
+
+### Streets for People Challenge
+The Streets for People Challenge is an initiative of the Smart Cities Mission, Ministry of Housing and Urban Affairs (MoHUA), Government of India, to inspire cities to create walking-friendly streets through quick measures, in response to COVID-19. The Challenge will support cities across the country to develop a unified vision of streets for people in consultation with stakeholders and citizens.
+- https://smartnet.niua.org/indiastreetchallenge/
