@@ -20,11 +20,19 @@ BMTC published departure times between Banashankari Bus Stand and Bengaluru Inte
 ![](images/bial-to-banashankari.jpg)
 
 
-#### Virgin Hyperloop and Bangalore International Airport
+### Virgin Hyperloop and Bangalore International Airport
 Virgin Hyperloop and Bangalore International Airport Limited announce ground-breaking partnership to conduct feasibility study. Hyperloop could connect BLR Airport to the city center in about `10 minutes`. More on the official press release at the link below:
 - https://www.bengaluruairport.com/corporate/media/news-press-releases/virgin-hyperloop-and-bangalore-international-airport-limited-ann.html
 
 
-#### Monthly newsletter from BMRC
+### Monthly newsletter from BMRC
 The Bangalore Metro Rail Corporation Limited (BMRC) publishes monthly newsletters with highlights of the month and progress of the major works undertaken. Monthly reports back from January, 2018 till the last month can be viewed at the link below:
 - https://english.bmrc.co.in/News/NewsSection
+
+
+### Bengaluru Sustainability Manifesto
+The Bengaluru Sustainability Manifesto (BSM) is primarily a vision document, but also includes suggested targets for Bengaluru to achieve 2030 such as increasing green space from 3% to 30%, increasing public transport share from 48% to 80%, mandating energy and water efficiency in all buildings 40% above 2020 average, approaching zero waste, reducing emissions intensity by 50%, and more.
+
+- https://bpac.in/bengaluru-sustainability-manifesto/
+
+![](images/bsm-targets.png)
